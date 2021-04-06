@@ -10,7 +10,7 @@ A powerful tweak for Tumblr!
    
     | Application | Version | Bear |
     | --- | --- | --- |
-    | [Tumblr](https://mega.nz/file/cZBFUSTT#K4BiNXwHTfbOuvUgB16LtIrzycB1FLY-tJkM_fz_njI) | 17.7 | 1.2 |
+    | [Tumblr](https://mega.nz/file/RcYnnQ6T#PTAJ2bsgxozIEJ4xZU0ZxtFigKBSiiuHWSQ035rKlTI) | 19.1 | 1.3 |
 
         
 &nbsp;
